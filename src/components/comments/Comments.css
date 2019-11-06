@@ -1,0 +1,12 @@
+.comments-box {
+  overflow-y: auto;
+}
+.comment-input {
+  height: 1em;
+  width: 80%;
+  font-size: 12pt;
+  border-radius: 5px;
+}
+.submit-comment {
+  height: 1em;
+}

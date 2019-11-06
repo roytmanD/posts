@@ -1,0 +1,22 @@
+.post-box {
+  margin-top: 1em;
+  width: 90%;
+  min-height: 7.5em;
+  color: grey;
+}
+.post-box p,
+.post-box h3 {
+  margin: auto;
+}
+.post-text {
+  text-align: left;
+  text-indent: 1em;
+}
+
+.img-box {
+  max-width: 5.5em;
+  max-height: 5.5em;
+  float: left;
+  margin-top: auto;
+  margin-bottom: auto;
+}
